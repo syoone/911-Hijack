@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-06-24">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="network strength" title="network strength" type="integer"></attribute>
+      <attribute id="ties" title="ties" type="integer"></attribute>
+      <attribute id="las vegas meeting" title="las vegas meeting" type="integer"></attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Majed Moqed" label="Majed Moqed">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="2"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24583333333333332"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2790960451977399"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="14.519181" y="265.3057"></viz:position>
+        <viz:color r="253" g="196" b="145"></viz:color>
+      </node>
+      <node id="Khalid Al-Mihdhar" label="Khalid Al-Mihdhar">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="2"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2645739910313901"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3327683615819208"></attvalue>
+          <attvalue for="betweenesscentrality" value="40.1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="127.829994" y="195.43983"></viz:position>
+        <viz:color r="247" g="164" b="115"></viz:color>
+      </node>
+      <node id="Hani Hanjour" label="Hani Hanjour">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="2"></attvalue>
+          <attvalue for="las vegas meeting" value="1"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3241758241758242"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4025423728813559"></attvalue>
+          <attvalue for="betweenesscentrality" value="362.6262626262631"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="52.0"></viz:size>
+        <viz:position x="-63.729286" y="228.17265"></viz:position>
+        <viz:color r="247" g="164" b="115"></viz:color>
+      </node>
+      <node id="Nawaf Alhazmi" label="Nawaf Alhazmi">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="2"></attvalue>
+          <attvalue for="las vegas meeting" value="1"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2822966507177033"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3937853107344632"></attvalue>
+          <attvalue for="betweenesscentrality" value="246.99292929292912"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="64.0"></viz:size>
+        <viz:position x="67.14339" y="106.32987"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="Salem Alhazmi*" label="Salem Alhazmi*">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="2"></attvalue>
+          <attvalue for="las vegas meeting" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2209737827715356"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2675948345439868"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="169.23347" y="77.587204"></viz:position>
+        <viz:color r="247" g="164" b="115"></viz:color>
+      </node>
+      <node id="Ahmed Alnami" label="Ahmed Alnami">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="3"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23694779116465864"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30940274414850694"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-68.11178" y="-88.390884"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="Ahmed Alghamdi" label="Ahmed Alghamdi">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="4"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22957198443579765"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.283414043583535"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-159.45097" y="-245.75494"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="Saeed Alghamdi*" label="Saeed Alghamdi*">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="3"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28365384615384615"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3692090395480226"></attvalue>
+          <attvalue for="betweenesscentrality" value="121.78069985569988"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="46.0"></viz:size>
+        <viz:position x="-98.04122" y="-192.0883"></viz:position>
+        <viz:color r="232" g="96" b="67"></viz:color>
+      </node>
+      <node id="Hamza Alghamdi" label="Hamza Alghamdi">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="4"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2822966507177033"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3677966101694915"></attvalue>
+          <attvalue for="betweenesscentrality" value="103.69065656565667"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="46.0"></viz:size>
+        <viz:position x="-205.7534" y="-139.5959"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="Ahmed Al Haznawi" label="Ahmed Al Haznawi">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="3"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3155080213903743"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3652542372881356"></attvalue>
+          <attvalue for="betweenesscentrality" value="178.26933621933617"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-459.37366" y="-171.6415"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="Mohand Alshehri*" label="Mohand Alshehri*">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="4"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2669683257918552"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3127118644067796"></attvalue>
+          <attvalue for="betweenesscentrality" value="18.31313131313132"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-429.1632" y="-213.7317"></viz:position>
+        <viz:color r="247" g="164" b="115"></viz:color>
+      </node>
+      <node id="Fayez Ahmed" label="Fayez Ahmed">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="4"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.30569948186528495"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35536723163841805"></attvalue>
+          <attvalue for="betweenesscentrality" value="46.39646464646465"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-665.09515" y="-274.46722"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Ziad Jarrah" label="Ziad Jarrah">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="3"></attvalue>
+          <attvalue for="las vegas meeting" value="1"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.37579617834394907"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.449152542372881"></attvalue>
+          <attvalue for="betweenesscentrality" value="225.5526695526694"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="58.000004"></viz:size>
+        <viz:position x="-851.17065" y="-196.76695"></viz:position>
+        <viz:color r="247" g="164" b="115"></viz:color>
+      </node>
+      <node id="Marwan Al-Shehhi" label="Marwan Al-Shehhi">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="4"></attvalue>
+          <attvalue for="las vegas meeting" value="1"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.38064516129032255"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.48022598870056465"></attvalue>
+          <attvalue for="betweenesscentrality" value="133.2763347763348"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="82.0"></viz:size>
+        <viz:position x="-915.8917" y="-306.84872"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Mohamed Atta" label="Mohamed Atta">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="1"></attvalue>
+          <attvalue for="las vegas meeting" value="1"></attvalue>
+          <attvalue for="degree" value="15"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.44360902255639095"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5536723163841807"></attvalue>
+          <attvalue for="betweenesscentrality" value="869.8274891774889"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-1145.353" y="-422.39624"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Abdul Aziz Al-Omari*" label="Abdul Aziz Al-Omari*">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="1"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3841807909604517"></attvalue>
+          <attvalue for="betweenesscentrality" value="74.10952380952376"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-850.06525" y="-404.32294"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Waleed Alshehri" label="Waleed Alshehri">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="1"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2796208530805687"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3330508474576271"></attvalue>
+          <attvalue for="betweenesscentrality" value="121.92460317460322"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-580.55005" y="-459.24237"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="Wail Alshehri" label="Wail Alshehri">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="1"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23137254901960785"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2692090395480223"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-450.55493" y="-522.277"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="Satam Suqami" label="Satam Suqami">
+        <attvalues>
+          <attvalue for="network strength" value="1"></attvalue>
+          <attvalue for="ties" value="1"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24789915966386555"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.304237288135593"></attvalue>
+          <attvalue for="betweenesscentrality" value="65.55793650793649"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-324.33777" y="-490.57068"></viz:position>
+        <viz:color r="232" g="96" b="67"></viz:color>
+      </node>
+      <node id="Raed Hijazi" label="Raed Hijazi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23228346456692914"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2961259079903148"></attvalue>
+          <attvalue for="betweenesscentrality" value="17.427777777777777"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-142.07234" y="-421.35095"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="Nabil al-Marabh" label="Nabil al-Marabh">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.233201581027668"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30460048426150127"></attvalue>
+          <attvalue for="betweenesscentrality" value="24.594444444444445"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-137.25357" y="-348.0586"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="Mustafa Ahamend al-Hisawi" label="Mustafa Ahamend al-Hisawi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34104046242774566"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.39774011299434997"></attvalue>
+          <attvalue for="betweenesscentrality" value="101.24285714285705"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-759.0672" y="-375.76617"></viz:position>
+        <viz:color r="247" g="164" b="115"></viz:color>
+      </node>
+      <node id="Mamoun Darkazanli" label="Mamoun Darkazanli">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3155080213903743"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36751412429378505"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-1027.694" y="-336.08533"></viz:position>
+        <viz:color r="253" g="196" b="145"></viz:color>
+      </node>
+      <node id="Zakariya Essabar" label="Zakariya Essabar">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33146067415730335"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3935028248587567"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1041.0225" y="-164.85223"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Said Bahaji" label="Said Bahaji">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3352272727272727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4104519774011296"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.839754689754689"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="52.0"></viz:size>
+        <viz:position x="-1070.0696" y="-235.06648"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Mounir El Motassadeq" label="Mounir El Motassadeq">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3172043010752688"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.37598870056497147"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-1194.7251" y="-270.47278"></viz:position>
+        <viz:color r="253" g="196" b="145"></viz:color>
+      </node>
+      <node id="Zacarias Moussaoui" label="Zacarias Moussaoui">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35119047619047616"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4451977401129942"></attvalue>
+          <attvalue for="betweenesscentrality" value="371.60000000000014"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="58.000004"></viz:size>
+        <viz:position x="-1739.1106" y="-363.4974"></viz:position>
+        <viz:color r="253" g="196" b="145"></viz:color>
+      </node>
+      <node id="Ramzi Bin al-Shibh" label="Ramzi Bin al-Shibh">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36419753086419754"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.45564971751412403"></attvalue>
+          <attvalue for="betweenesscentrality" value="91.56753246753249"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="64.0"></viz:size>
+        <viz:position x="-1295.8588" y="-302.40424"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Agus Budiman" label="Agus Budiman">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3963276836158188"></attvalue>
+          <attvalue for="betweenesscentrality" value="41.800000000000026"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-1174.8557" y="-129.34482"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Ahed Khalil Ibrahim Samir Al-Ani" label="Ahed Khalil Ibrahim Samir Al-Ani">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.31216931216931215"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3576271186440676"></attvalue>
+          <attvalue for="betweenesscentrality" value="15.199999999999994"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-1239.2815" y="-97.01407"></viz:position>
+        <viz:color r="253" g="196" b="145"></viz:color>
+      </node>
+      <node id="Lofti Raissi" label="Lofti Raissi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.37579617834394907"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.430790960451977"></attvalue>
+          <attvalue for="betweenesscentrality" value="409.85959595959645"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="-621.2497" y="-18.811466"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Rayed Mohammed Abdullah" label="Rayed Mohammed Abdullah">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.29949238578680204"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3508474576271187"></attvalue>
+          <attvalue for="betweenesscentrality" value="40.8"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="46.0"></viz:size>
+        <viz:position x="-252.32225" y="300.90826"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Bandar Alhazmi" label="Bandar Alhazmi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24686192468619247"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.28757062146892637"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-114.004845" y="333.29547"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Faisal Al Salmi" label="Faisal Al Salmi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24686192468619247"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.28757062146892637"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-141.10875" y="362.16904"></viz:position>
+        <viz:color r="253" g="187" b="132"></viz:color>
+      </node>
+      <node id="Osama Awadallah" label="Osama Awadallah">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22264150943396227"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2845439870863598"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="250.07988" y="166.26471"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="Abdussattar Shaikh" label="Abdussattar Shaikh">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22264150943396227"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2845439870863598"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="218.24353" y="233.2619"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="Mohamed Abdi" label="Mohamed Abdi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2209737827715356"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2675948345439868"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="251.7233" y="49.24211"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="Mohamed Belfas" label="Mohamed Belfas">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2532188841201717"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.290960451977401"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.5"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-1220.455" y="-32.782417"></viz:position>
+        <viz:color r="253" g="196" b="145"></viz:color>
+      </node>
+      <node id="Imad Eddin Baraat Yarkas" label="Imad Eddin Baraat Yarkas">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3352272727272727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.39999999999999974"></attvalue>
+          <attvalue for="betweenesscentrality" value="50.48452380952381"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-1617.968" y="-561.6521"></viz:position>
+        <viz:color r="253" g="196" b="145"></viz:color>
+      </node>
+      <node id="Tarek Maaroufi" label="Tarek Maaroufi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.29064039408866993"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3813559322033898"></attvalue>
+          <attvalue for="betweenesscentrality" value="57.14999999999999"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="46.0"></viz:size>
+        <viz:position x="-1793.3365" y="-726.95776"></viz:position>
+        <viz:color r="253" g="223" b="186"></viz:color>
+      </node>
+      <node id="Abu Qatada" label="Abu Qatada">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.29064039408866993"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3813559322033897"></attvalue>
+          <attvalue for="betweenesscentrality" value="74.51666666666668"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="46.0"></viz:size>
+        <viz:position x="-1842.859" y="-530.5043"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Djamal Benghal" label="Djamal Benghal">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28780487804878047"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4025423728813558"></attvalue>
+          <attvalue for="betweenesscentrality" value="193.85"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="70.0"></viz:size>
+        <viz:position x="-2026.8436" y="-399.2878"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Jerome Courtaillier" label="Jerome Courtaillier">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2694063926940639"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.33615819209039544"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-1933.1456" y="-309.64597"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="David Courtaillier" label="David Courtaillier">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2694063926940639"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.33615819209039544"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-1842.8016" y="-281.21152"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Ahmen Ressam" label="Ahmen Ressam">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28365384615384615"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3502824858757061"></attvalue>
+          <attvalue for="betweenesscentrality" value="28.566666666666666"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-1939.6642" y="-589.9781"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Abu Walid" label="Abu Walid">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23412698412698413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3024213075060533"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-1951.9884" y="-481.7184"></viz:position>
+        <viz:color r="253" g="223" b="186"></viz:color>
+      </node>
+      <node id="Jean-Marc Grandvisir" label="Jean-Marc Grandvisir">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22433460076045628"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2716303470540759"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="-2174.9717" y="-367.65335"></viz:position>
+        <viz:color r="254" g="232" b="200"></viz:color>
+      </node>
+      <node id="Abu Zubeida" label="Abu Zubeida">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22433460076045628"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2716303470540759"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="-2130.193" y="-430.92148"></viz:position>
+        <viz:color r="254" g="232" b="200"></viz:color>
+      </node>
+      <node id="Nizar Trabelsi" label="Nizar Trabelsi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22433460076045628"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2716303470540759"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="-2103.9138" y="-338.4306"></viz:position>
+        <viz:color r="254" g="232" b="200"></viz:color>
+      </node>
+      <node id="Haydar Abu Doha" label="Haydar Abu Doha">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2822966507177033"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3531073446327683"></attvalue>
+          <attvalue for="betweenesscentrality" value="28.233333333333338"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-1987.3896" y="-817.9025"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Mehdi Khammoun" label="Mehdi Khammoun">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2694063926940639"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.32909604519774005"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-1944.3597" y="-941.624"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Mohammed Bensakhria" label="Mohammed Bensakhria">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2744186046511628"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34322033898305077"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.533333333333333"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="-1925.3909" y="-849.4735"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Lased Ben Heni" label="Lased Ben Heni">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.26222222222222225"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3138418079096044"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-1880.0596" y="-969.9327"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Essid Sami Ben Khemail" label="Essid Sami Ben Khemail">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35119047619047616"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4663841807909604"></attvalue>
+          <attvalue for="betweenesscentrality" value="428.4988095238095"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="76.0"></viz:size>
+        <viz:position x="-1703.3219" y="-878.3683"></viz:position>
+        <viz:color r="253" g="196" b="145"></viz:color>
+      </node>
+      <node id="Seifallah ben Hassine" label="Seifallah ben Hassine">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.271889400921659"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.32627118644067793"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-1713.3237" y="-757.31915"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Essoussi Laaroussi" label="Essoussi Laaroussi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.271889400921659"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.32627118644067793"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-1835.5857" y="-785.83826"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Fahid al Shakri" label="Fahid al Shakri">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2610619469026549"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.305367231638418"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="-1739.5669" y="-1026.91"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Madjid Sahoune" label="Madjid Sahoune">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2681818181818182"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.32062146892655363"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-2039.8383" y="-908.56274"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Samir Kishk" label="Samir Kishk">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2610619469026549"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.305367231638418"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="-1807.1465" y="-998.459"></viz:position>
+        <viz:color r="253" g="214" b="172"></viz:color>
+      </node>
+      <node id="Kamel Daoudi" label="Kamel Daoudi">
+        <attvalues>
+          <attvalue for="network strength" value="2"></attvalue>
+          <attvalue for="ties" value="5"></attvalue>
+          <attvalue for="las vegas meeting" value="0"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2783018867924528"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3629943502824858"></attvalue>
+          <attvalue for="betweenesscentrality" value="13.816666666666666"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="46.0"></viz:size>
+        <viz:position x="-1866.8315" y="-431.34824"></viz:position>
+        <viz:color r="253" g="205" b="159"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="147744" source="Abdul Aziz Al-Omari*" target="Marwan Al-Shehhi" weight="2.0"></edge>
+      <edge id="147745" source="Abdul Aziz Al-Omari*" target="Mohamed Atta" weight="2.0"></edge>
+      <edge id="147746" source="Abdul Aziz Al-Omari*" target="Waleed Alshehri" weight="2.0"></edge>
+      <edge id="147747" source="Abdussattar Shaikh" target="Khalid Al-Mihdhar"></edge>
+      <edge id="147748" source="Abdussattar Shaikh" target="Nawaf Alhazmi"></edge>
+      <edge id="147749" source="Abdussattar Shaikh" target="Osama Awadallah" weight="2.0"></edge>
+      <edge id="147750" source="Abu Qatada" target="Abu Walid" weight="2.0"></edge>
+      <edge id="147751" source="Abu Qatada" target="Djamal Benghal" weight="2.0"></edge>
+      <edge id="147752" source="Abu Qatada" target="Imad Eddin Baraat Yarkas" weight="2.0"></edge>
+      <edge id="147753" source="Abu Qatada" target="Tarek Maaroufi" weight="3.0"></edge>
+      <edge id="147754" source="Abu Qatada" target="Zacarias Moussaoui" weight="2.0"></edge>
+      <edge id="147756" source="Abu Walid" target="Djamal Benghal" weight="2.0"></edge>
+      <edge id="147757" source="Abu Walid" target="Kamel Daoudi" weight="2.0"></edge>
+      <edge id="147758" source="Abu Zubeida" target="Djamal Benghal" weight="2.0"></edge>
+      <edge id="147759" source="Agus Budiman" target="Marwan Al-Shehhi"></edge>
+      <edge id="147760" source="Agus Budiman" target="Mohamed Atta"></edge>
+      <edge id="147761" source="Agus Budiman" target="Ramzi Bin al-Shibh" weight="2.0"></edge>
+      <edge id="147762" source="Agus Budiman" target="Ziad Jarrah"></edge>
+      <edge id="147763" source="Ahed Khalil Ibrahim Samir Al-Ani" target="Mohamed Atta"></edge>
+      <edge id="147764" source="Ahmed Al Haznawi" target="Hamza Alghamdi" weight="2.0"></edge>
+      <edge id="147765" source="Ahmed Al Haznawi" target="Saeed Alghamdi*"></edge>
+      <edge id="147766" source="Ahmed Al Haznawi" target="Ziad Jarrah" weight="2.0"></edge>
+      <edge id="147767" source="Ahmed Alghamdi" target="Hamza Alghamdi" weight="2.0"></edge>
+      <edge id="147768" source="Ahmed Alnami" target="Hamza Alghamdi" weight="2.0"></edge>
+      <edge id="147769" source="Ahmed Alnami" target="Saeed Alghamdi*"></edge>
+      <edge id="147770" source="Ahmen Ressam" target="Haydar Abu Doha" weight="2.0"></edge>
+      <edge id="147771" source="Ahmen Ressam" target="Zacarias Moussaoui" weight="2.0"></edge>
+      <edge id="147772" source="Bandar Alhazmi" target="Hani Hanjour"></edge>
+      <edge id="147773" source="Bandar Alhazmi" target="Rayed Mohammed Abdullah" weight="2.0"></edge>
+      <edge id="147774" source="David Courtaillier" target="Jerome Courtaillier" weight="2.0"></edge>
+      <edge id="147775" source="David Courtaillier" target="Zacarias Moussaoui" weight="2.0"></edge>
+      <edge id="147779" source="Djamal Benghal" target="Ahmen Ressam"></edge>
+      <edge id="147780" source="Djamal Benghal" target="David Courtaillier"></edge>
+      <edge id="147781" source="Djamal Benghal" target="Jean-Marc Grandvisir" weight="2.0"></edge>
+      <edge id="147782" source="Djamal Benghal" target="Jerome Courtaillier" weight="2.0"></edge>
+      <edge id="147783" source="Djamal Benghal" target="Nizar Trabelsi" weight="2.0"></edge>
+      <edge id="147784" source="Djamal Benghal" target="Zacarias Moussaoui" weight="2.0"></edge>
+      <edge id="147785" source="Essid Sami Ben Khemail" target="Essoussi Laaroussi" weight="2.0"></edge>
+      <edge id="147786" source="Essid Sami Ben Khemail" target="Fahid al Shakri" weight="2.0"></edge>
+      <edge id="147787" source="Essid Sami Ben Khemail" target="Haydar Abu Doha" weight="2.0"></edge>
+      <edge id="147788" source="Essid Sami Ben Khemail" target="Lased Ben Heni" weight="2.0"></edge>
+      <edge id="147789" source="Essid Sami Ben Khemail" target="Madjid Sahoune" weight="2.0"></edge>
+      <edge id="147790" source="Essid Sami Ben Khemail" target="Mehdi Khammoun" weight="2.0"></edge>
+      <edge id="147791" source="Essid Sami Ben Khemail" target="Mohamed Atta"></edge>
+      <edge id="147792" source="Essid Sami Ben Khemail" target="Mohammed Bensakhria" weight="2.0"></edge>
+      <edge id="147793" source="Essid Sami Ben Khemail" target="Samir Kishk" weight="2.0"></edge>
+      <edge id="147794" source="Essid Sami Ben Khemail" target="Seifallah ben Hassine" weight="2.0"></edge>
+      <edge id="147795" source="Essid Sami Ben Khemail" target="Tarek Maaroufi" weight="3.0"></edge>
+      <edge id="147797" source="Essoussi Laaroussi" target="Tarek Maaroufi" weight="3.0"></edge>
+      <edge id="147799" source="Faisal Al Salmi" target="Hani Hanjour"></edge>
+      <edge id="147800" source="Faisal Al Salmi" target="Rayed Mohammed Abdullah" weight="2.0"></edge>
+      <edge id="147801" source="Fayez Ahmed" target="Marwan Al-Shehhi" weight="2.0"></edge>
+      <edge id="147802" source="Fayez Ahmed" target="Mohand Alshehri*" weight="2.0"></edge>
+      <edge id="147806" source="Hamza Alghamdi" target="Mohand Alshehri*" weight="2.0"></edge>
+      <edge id="147807" source="Hamza Alghamdi" target="Saeed Alghamdi*"></edge>
+      <edge id="147808" source="Hani Hanjour" target="Khalid Al-Mihdhar" weight="2.0"></edge>
+      <edge id="147809" source="Hani Hanjour" target="Majed Moqed" weight="2.0"></edge>
+      <edge id="147810" source="Hani Hanjour" target="Nawaf Alhazmi" weight="2.0"></edge>
+      <edge id="147813" source="Haydar Abu Doha" target="Madjid Sahoune"></edge>
+      <edge id="147815" source="Imad Eddin Baraat Yarkas" target="Mohamed Atta"></edge>
+      <edge id="147816" source="Imad Eddin Baraat Yarkas" target="Ramzi Bin al-Shibh"></edge>
+      <edge id="147817" source="Imad Eddin Baraat Yarkas" target="Tarek Maaroufi" weight="3.0"></edge>
+      <edge id="147821" source="Jerome Courtaillier" target="Kamel Daoudi" weight="2.0"></edge>
+      <edge id="147822" source="Jerome Courtaillier" target="Zacarias Moussaoui" weight="2.0"></edge>
+      <edge id="147823" source="Kamel Daoudi" target="Abu Qatada"></edge>
+      <edge id="147825" source="Kamel Daoudi" target="David Courtaillier"></edge>
+      <edge id="147826" source="Kamel Daoudi" target="Djamal Benghal"></edge>
+      <edge id="147828" source="Kamel Daoudi" target="Zacarias Moussaoui"></edge>
+      <edge id="147830" source="Khalid Al-Mihdhar" target="Nawaf Alhazmi" weight="2.0"></edge>
+      <edge id="147832" source="Lased Ben Heni" target="Mohammed Bensakhria" weight="2.0"></edge>
+      <edge id="147833" source="Lofti Raissi" target="Hani Hanjour"></edge>
+      <edge id="147834" source="Lofti Raissi" target="Marwan Al-Shehhi"></edge>
+      <edge id="147835" source="Lofti Raissi" target="Mohamed Atta"></edge>
+      <edge id="147836" source="Lofti Raissi" target="Rayed Mohammed Abdullah"></edge>
+      <edge id="147837" source="Lofti Raissi" target="Ziad Jarrah"></edge>
+      <edge id="147840" source="Mamoun Darkazanli" target="Marwan Al-Shehhi"></edge>
+      <edge id="147841" source="Mamoun Darkazanli" target="Mohamed Atta"></edge>
+      <edge id="147842" source="Mamoun Darkazanli" target="Said Bahaji" weight="2.0"></edge>
+      <edge id="147845" source="Marwan Al-Shehhi" target="Mohamed Atta" weight="2.0"></edge>
+      <edge id="147846" source="Marwan Al-Shehhi" target="Ziad Jarrah" weight="2.0"></edge>
+      <edge id="147848" source="Mehdi Khammoun" target="Haydar Abu Doha"></edge>
+      <edge id="147849" source="Mehdi Khammoun" target="Mohammed Bensakhria" weight="2.0"></edge>
+      <edge id="147850" source="Mohamed Abdi" target="Nawaf Alhazmi"></edge>
+      <edge id="147853" source="Mohamed Atta" target="Ziad Jarrah" weight="2.0"></edge>
+      <edge id="147854" source="Mohamed Belfas" target="Agus Budiman"></edge>
+      <edge id="147855" source="Mohamed Belfas" target="Ahed Khalil Ibrahim Samir Al-Ani"></edge>
+      <edge id="147859" source="Mohammed Bensakhria" target="Tarek Maaroufi" weight="3.0"></edge>
+      <edge id="147862" source="Mounir El Motassadeq" target="Marwan Al-Shehhi"></edge>
+      <edge id="147863" source="Mounir El Motassadeq" target="Mohamed Atta"></edge>
+      <edge id="147864" source="Mounir El Motassadeq" target="Ramzi Bin al-Shibh" weight="2.0"></edge>
+      <edge id="147865" source="Mounir El Motassadeq" target="Said Bahaji" weight="2.0"></edge>
+      <edge id="147866" source="Mustafa Ahamend al-Hisawi" target="Fayez Ahmed"></edge>
+      <edge id="147867" source="Mustafa Ahamend al-Hisawi" target="Marwan Al-Shehhi"></edge>
+      <edge id="147868" source="Mustafa Ahamend al-Hisawi" target="Mohamed Atta"></edge>
+      <edge id="147869" source="Mustafa Ahamend al-Hisawi" target="Waleed Alshehri"></edge>
+      <edge id="147870" source="Nabil al-Marabh" target="Ahmed Alghamdi"></edge>
+      <edge id="147871" source="Nabil al-Marabh" target="Raed Hijazi" weight="2.0"></edge>
+      <edge id="147872" source="Nabil al-Marabh" target="Saeed Alghamdi*"></edge>
+      <edge id="147873" source="Nabil al-Marabh" target="Satam Suqami"></edge>
+      <edge id="147874" source="Nawaf Alhazmi" target="Ahmed Alnami"></edge>
+      <edge id="147875" source="Nawaf Alhazmi" target="Hamza Alghamdi"></edge>
+      <edge id="147878" source="Nawaf Alhazmi" target="Saeed Alghamdi*"></edge>
+      <edge id="147879" source="Nawaf Alhazmi" target="Salem Alhazmi*" weight="2.0"></edge>
+      <edge id="147882" source="Osama Awadallah" target="Khalid Al-Mihdhar"></edge>
+      <edge id="147883" source="Osama Awadallah" target="Nawaf Alhazmi"></edge>
+      <edge id="147885" source="Raed Hijazi" target="Saeed Alghamdi*"></edge>
+      <edge id="147886" source="Raed Hijazi" target="Satam Suqami"></edge>
+      <edge id="147888" source="Ramzi Bin al-Shibh" target="Marwan Al-Shehhi"></edge>
+      <edge id="147889" source="Ramzi Bin al-Shibh" target="Mohamed Atta"></edge>
+      <edge id="147891" source="Ramzi Bin al-Shibh" target="Said Bahaji" weight="2.0"></edge>
+      <edge id="147892" source="Ramzi Bin al-Shibh" target="Zacarias Moussaoui" weight="2.0"></edge>
+      <edge id="147893" source="Ramzi Bin al-Shibh" target="Zakariya Essabar" weight="2.0"></edge>
+      <edge id="147894" source="Ramzi Bin al-Shibh" target="Ziad Jarrah"></edge>
+      <edge id="147897" source="Rayed Mohammed Abdullah" target="Hani Hanjour"></edge>
+      <edge id="147898" source="Rayed Mohammed Abdullah" target="Rayed Mohammed Abdullah"></edge>
+      <edge id="147900" source="Said Bahaji" target="Marwan Al-Shehhi"></edge>
+      <edge id="147901" source="Said Bahaji" target="Mohamed Atta"></edge>
+      <edge id="147904" source="Said Bahaji" target="Zakariya Essabar" weight="2.0"></edge>
+      <edge id="147905" source="Said Bahaji" target="Ziad Jarrah"></edge>
+      <edge id="147908" source="Satam Suqami" target="Wail Alshehri" weight="2.0"></edge>
+      <edge id="147909" source="Satam Suqami" target="Waleed Alshehri" weight="2.0"></edge>
+      <edge id="147911" source="Seifallah ben Hassine" target="Tarek Maaroufi" weight="3.0"></edge>
+      <edge id="147925" source="Wail Alshehri" target="Waleed Alshehri" weight="2.0"></edge>
+      <edge id="147934" source="Zacarias Moussaoui" target="Mohamed Atta"></edge>
+      <edge id="147936" source="Zakariya Essabar" target="Marwan Al-Shehhi"></edge>
+      <edge id="147937" source="Zakariya Essabar" target="Mohamed Atta"></edge>
+      <edge id="147940" source="Zakariya Essabar" target="Ziad Jarrah"></edge>
+    </edges>
+  </graph>
+</gexf>
